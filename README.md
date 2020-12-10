@@ -20,7 +20,7 @@ include('wp-pagination.php');
 `wp-pagination.php` dosyası, `function.php` dosyasına eklendikten sonra; hangi sayfada
 kullanılacaksa; istenilen fonksiyon çağrılır.
 
-````
+```
 create_wp_pagination();
 veya
 create_wp_bootstrap_pagination();
